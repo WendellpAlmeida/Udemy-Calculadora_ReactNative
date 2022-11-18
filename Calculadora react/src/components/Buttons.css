@@ -1,0 +1,29 @@
+.buttons{
+    background-color: #060606;
+    color: whitesmoke;
+    height: 60px;
+    width: 72px;
+
+    font-size: 1.1rem;
+    text-align: center;
+    padding: .9rem;
+    
+    cursor: pointer;
+
+    border: #292929 solid 1px;
+
+    display: inline-block;
+    box-sizing: border-box;
+    
+    user-select: none;
+}
+.buttons:hover{
+    background-color: #252525;
+}
+.double{
+    width: 144px;
+}
+.operation{
+    background-color: #1b1b1b;
+    color: whitesmoke;
+}
