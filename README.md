@@ -5,6 +5,7 @@ Denrtro do diretorio do projeto
 executar o : npm start
 
 rodar em modo desenvolvedor 
+
 ABRIR :http://localhost:3000 para ver no navegador 
 
 
